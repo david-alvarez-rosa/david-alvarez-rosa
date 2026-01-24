@@ -1,10 +1,5 @@
-* David Álvarez Rosa
-Hi, I'm David! I am a strong advocate of free (as in /freedom/) software.
+Hi! I'm David, a mathematician and engineer based in sunny Dublin,
+passionate about low-latency, high-performance systems.  I'm a strong
+advocate of free (as in /freedom/) software, and a devoted Emacs user.
 
-You can also find me in:
-- [[https://david.alvarezrosa.com][Personal Website]]
-- [[https://blog.alvarezrosa.com][Personal Blogsite]]
-- [[https://gitlab.com/david-alvarez-rosa][GitLab]]
-- [[https://linkedin.com/in/david-alvarez-rosa][LinkedIn]]
-- [[https://github.com/david-alvarez-rosa][GitHub]]
-- [[https://david-alvarez-rosa.medium.com][Medium]]
+Find me on [[https://github.com/david-alvarez-rosa/][GitHub]], [[https://gitlab.com/david-alvarez-rosa][GitLab]], [[https://linkedin.com/in/david-alvarez-rosa][LinkedIn]], [[https://david-alvarez-rosa.medium.com/][Medium]].
